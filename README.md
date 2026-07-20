@@ -4,6 +4,8 @@
  Essa é a primeira versão de meu primeiro projeto na programação. Fiz essa projeto para ajudar no controle de estoque do Kumon da minha cidade onde eu sou bolsista pois,
  muitos me disseram que aprendemos bastante em projetos reais e agora tenho ABSOLUTA certeza disso.
 
+O sistema permitiu que a equipe realizasse baixas automatizadas de insumos por curso, estágio e bloco, agilizando o processo operacional e garantindo 100% de acuracidade nos dados do estoque.
+
  Foi utilizada Python junto com o Framework Tkinter, utilizei IA e as próprias documentações para me ajudar em algumas partes em que não consegui dominar totalmente nas aulas da 
  HASHTAG que é a escola de cursos onde estudo, além do Excel que é onde o próprio Kumon anota seu estoque. 
 
@@ -15,6 +17,8 @@
  
 Por último aprendi a transformar o arquivo em exe, onde tive problemas para fazer com que o programa achasse as Planilhas, por fim consegui arrumar apenas deixando o exe junto com uma
 pasta onde as planilhas estavam concluindo assim o projeto.
+
+Esse link te leva diretamente ao tutorial e instalador do programa: https://drive.google.com/drive/folders/10UtFzPvQagR5wFYaI8gnTgsN1Hm61h1m?usp=sharing
 
 #Últimos comentários:
 Gostei muito pois aprendi muita coisa porém, não ficou totalmente como eu queria, principalmente a parte do Frontend mas irei fazer mais atualizações. Quero que o programa tenha mais
